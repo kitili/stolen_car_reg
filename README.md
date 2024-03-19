@@ -1,4 +1,4 @@
-# {Dancan Moiyo, Mourine Kitili ,Caroline W. Nyambura }
+# { }
 ## {StolenCar Reg}, {2021}
 ## Description
 {A website that gives users  a way to identify a stolen vehicle before purchase,a site to post their stolen vehicle and prevent someone from falling victim to criminals and a place to start looking when they are trying to find their stolen vehicle or that of family and friends.Its a Website you can easily navigate though on you phone,tablet,laptop or desktop computer:No installation whatsoever required.
